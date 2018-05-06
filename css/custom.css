@@ -1,0 +1,28 @@
+
+
+/** 
+** Header Style
+**/
+.header{
+	background: green;
+	color: #fff;
+}
+
+/**
+** slideshow Style
+**/
+.slideshow{margin-top: 20px;}
+.owl-item{
+	background: #ccc;
+	min-height: 200px !important;
+	text-align: center;
+	line-height: 150px;
+}
+
+/**
+** Footer Style
+**/
+.footer{
+	background: #666;
+	color: #fff;
+}
